@@ -13,16 +13,16 @@ The plugin helps to find all the external links within a blog.
 The plugin helps to find all the external links within a blog.
 
 
-To know more visit <a href='http://www.geektrick.com/2012/08/01/wordpress-plugin-to-scan-all-the-external-links-in-your-blog/'>GeekTrick.com</a>
+To know more visit <a href='http://geek.grapable.com/2012/08/01/wordpress-plugin-to-scan-all-the-external-links-in-your-blog/'>GeekTrick</a>
 
 
 == Installation ==
 
-To know how to install the plugin visit <a href='http://www.geektrick.com/2012/08/01/wordpress-plugin-to-scan-all-the-external-links-in-your-blog/'>GeekTrick.com</a>
+To know how to install the plugin visit <a href='http://geek.grapable.com/2012/08/01/wordpress-plugin-to-scan-all-the-external-links-in-your-blog/'>GeekTrick</a>
 
 == Frequently Asked Questions ==
 
-To know how to about faqs for the plugin visit <a href='http://www.geektrick.com/2012/08/01/wordpress-plugin-to-scan-all-the-external-links-in-your-blog/'>GeekTrick.com</a>
+To know how to about faqs for the plugin visit <a href='http://geek.grapable.com/2012/08/01/wordpress-plugin-to-scan-all-the-external-links-in-your-blog/'>GeekTrick</a>
 
 
 == ChangeLog ==
